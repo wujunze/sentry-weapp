@@ -1,0 +1,22 @@
+{
+  "name": "raven-weapp",
+  "version": "1.0.1",
+  "description": "Wechat WeApp  SDK for Sentry",
+  "main": "index.js",
+  "authors": [
+    "wujunze"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/everywill/raven-weapp",
+  "ignore": [
+    "**/.*",
+    "Gruntfile.js",
+    "node_modules",
+    "src",
+    "vendor",
+    "bower_components",
+    "test",
+    "tests",
+    "*.md"
+  ]
+}
